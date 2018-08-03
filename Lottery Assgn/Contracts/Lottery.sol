@@ -1,9 +1,9 @@
 pragma solidity ^0.4.2;
 
-contract Election {
+contract Lottery {
     string public candidateName;
 
-    function Election () public {
+    function Lottery () public {
         candidateName = "Candidate 1";
     }
 
